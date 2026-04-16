@@ -1,0 +1,21 @@
+{
+  "name": "did-project-(1)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "forge-std": "^1.1.2",
+    "hardhat": "^3.0.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
